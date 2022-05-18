@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Soham Shah</title>
-        <meta name="description" content="Soham Shah" />
+        <title>Ayush Kumar</title>
+        <meta name="description" content="Ayush Kumar" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -18,15 +18,15 @@ export default function Home() {
           <div className="text-gray-600 dark:text-gray-400">
             <div className="mt-2 border-b-2">
               <h1 className="text-6xl font-bold pb-6 text-gray-900 dark:text-gray-200">
-                Soham Shah 👋
+                Ayush Kumar 👋
               </h1>
               <p className="text-xl pb-4">
-                Hey, there! Welcome to my Website. I am Soham Shah - Software
+                Hey, there! Welcome to my Website. I am Ayush Kumar - Software
                 Engineer based in India.
               </p>
               <p className="text-xl">
-                I am a final year student at Adani Institute, currently pursuing
-                Information and Communication Technology Engineering.
+                I am a third year student at ABES ENGINEERING COLLEGE, currently pursuing
+                Electronics and Communication Engineering.
               </p>
               <p className="text-xl pb-4">
                 My experience revolves around developing full-stack
@@ -36,8 +36,8 @@ export default function Home() {
                 research work around it.
               </p>
               <p className="text-xl pb-4">
-                I have been involved with Google Developer Student Clubs- GHRCE
-                and Adani Institute of Innovation Hub (AIIH) and have organized
+                I have been involved with Geeks for Geeks Club - GFGABESEC
+                and have organized
                 workshops, talks and hackathons for the community. I am also a
                 passionate open source contributor and tech speaker.
               </p>
@@ -54,7 +54,7 @@ export default function Home() {
               <ul className="text-xl pb-4">
                 <li className="my-2">
                   <span className="underline">Languages</span>: JavaScript,
-                  TypeScript, Java, Python, HTML5, CSS3{" "}
+                  TypeScript, C++, Python, HTML5, CSS3{" "}
                 </li>
                 <li className="my-2">
                   <span className="underline">Frameworks and Libraries</span>:
@@ -62,7 +62,7 @@ export default function Home() {
                 </li>
                 <li className="my-2">
                   <span className="underline">Platforms</span>: Git (Github and
-                  Gitlab), Heroku, AWS, Google Firebase
+                  Gitlab), Heroku, AWS, Vercel, Netlify, Google Firebase
                 </li>
                 <li className="my-2">
                   <span className="underline">Database</span>: MongoDB, SQL,
@@ -88,7 +88,7 @@ export default function Home() {
                   <span>
                     <a
                       className="underline"
-                      href="https://www.youtube.com/watch?v=bFkSf6g1vms&t=1984s"
+                      href=""
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -102,7 +102,7 @@ export default function Home() {
                   <span>
                     <a
                       className="underline"
-                      href="https://www.youtube.com/watch?t=4112&v=v13fju8L-Q8&feature=youtu.be"
+                      href=""
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -116,7 +116,7 @@ export default function Home() {
                   <span>
                     <a
                       className="underline"
-                      href="https://www.youtube.com/watch?v=mp3SIa1H1rI"
+                      href=""
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -143,7 +143,7 @@ export default function Home() {
                   <span>
                     <a
                       className="underline"
-                      href="https://sohamsshah.hashnode.dev/top-12-tips-on-how-to-excel-at-your-developer-job"
+                      href=""
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -156,7 +156,7 @@ export default function Home() {
                   <span>
                     <a
                       className="underline"
-                      href="https://sohamsshah.hashnode.dev/know-how-git-works-behind-the-scenes-aa40567082ba"
+                      href=""
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -169,7 +169,7 @@ export default function Home() {
                   <span>
                     <a
                       className="underline"
-                      href="https://sohamsshah.hashnode.dev/7-open-source-spirits-you-must-know"
+                      href=""
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -182,7 +182,7 @@ export default function Home() {
               <p className="text-lg pb-10">
                 <a
                   className="hover:underline"
-                  href="https://sohamsshah.hashnode.dev/"
+                  href="https://Ayush7614.hashnode.dev/"
                   target="_blank"
                   rel="noreferrer"
                 >

@@ -8,7 +8,7 @@ export default function Projects() {
     <div>
       <Head>
         <title>Ayush Kumar | Projects</title>
-        <meta name="description" content="Soham Shah" />
+        <meta name="description" content="Ayush Kumar" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
